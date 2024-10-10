@@ -5,6 +5,7 @@
 ## Team members:
 
 Hermán Judit (L7D38R)
+
 Kovács Kíra Diána (CXL05B)
 
 ## Project description
