@@ -16,7 +16,7 @@ We want to investigate the topic further, than the participants of the competiti
 
 ## Functions of the files in the repository
 
-TODO
+**Melytanulas_BHW.ipynb** - This notebook contains the main part of the project.
 
 ## Related works (papers, GitHub repositories, blog posts, etc)
 
