@@ -17,6 +17,7 @@ We want to investigate the topic further, than the participants of the competiti
 ## Functions of the files in the repository
 
 **Melytanulas_BHW.ipynb** - This notebook contains the main part of the project.
+-- 10.13: First milestone, with data analysis, preparation, loaders
 
 ## Related works (papers, GitHub repositories, blog posts, etc)
 
