@@ -26,3 +26,7 @@ Since the dataset is on Kaggle related to a data competition, we took a look to 
 ## How to run it
 
 We used Kaggle to run the notebook, because this way we didn't have to download the 1GB dataset. So the easiest way to run the notebook is to upload the notebook to Kaggle and run the codes there. An other way is to download the dataset to your own machine and rewrite the file path. If you would like to, we can share with you the notebook on Kaggle, so you can just rerun it there, please send us the email address of the required personnel and we can grant access.
+
+## Milestone 2
+
+We trained a simple convolutional network as a baseline model and evaluated its performance in the same notebook on Kaggle. The uploaded Milestone2.ipynb file contains the training and evaluation (you can upload and run it on Kaggle).
