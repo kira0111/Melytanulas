@@ -16,12 +16,20 @@ We want to investigate the topic further, than the participants of the competiti
 
 ## Functions of the files in the repository
 
-**Melytanulas_BHW.ipynb** - This notebook contains the main part of the project.
+**melytanulas_bhw.ipynb** - This notebook contains the main part of the project.
 -- 10.13: First milestone, with data analysis, preparation, loaders
+**Milestone2.ipynb** - The notebook contains all the code and requirement work for the 2nd milestone.
+**Final.ipynb** - This notebook has the final code for the project.
+**Documentation.pdf** - This document contains the documentation of our project.
 
 ## Related works (papers, GitHub repositories, blog posts, etc)
 
 Since the dataset is on Kaggle related to a data competition, we took a look to the other uploaded codes, so we could gather new ideas.
+
+Papers: (we used them in the documentation too)
+* Aimina Ali Eli and Abida Ali. Deep Learning Applications in Medical Image Analysis: Advancements, Challenges, and Future Directions. arXiv, 2024.
+* Li, Mengfang and Jiang, Yuanyuan and Zhang, Yanzhou and Zhu, Haisheng. Medical image analysis using deep learning algorithms. Frontiers in Public Health, 2023.
+* Ker, Justin and Wang, Lipo and Rao, Jai and Lim, Tchoyoson. Deep Learning Applications in Medical Image Analysis. IEEE Access, 2018.
 
 ## How to run it
 
