@@ -18,8 +18,11 @@ We want to investigate the topic further, than the participants of the competiti
 
 **melytanulas_bhw.ipynb** - This notebook contains the main part of the project.
 -- 10.13: First milestone, with data analysis, preparation, loaders
+
 **Milestone2.ipynb** - The notebook contains all the code and requirement work for the 2nd milestone.
+
 **Final.ipynb** - This notebook has the final code for the project.
+
 **Documentation.pdf** - This document contains the documentation of our project.
 
 ## Related works (papers, GitHub repositories, blog posts, etc)
